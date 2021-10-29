@@ -14,7 +14,9 @@
 
 ### Схема таблиц и описание данных
 
-<img src="https://pictures.s3.yandex.net/resources/photo_2019-11-08_14-08-31_1573733426.jpg" width=700 height=1100 />
+<p align="center">
+  <img src="https://pictures.s3.yandex.net/resources/photo_2019-11-08_14-08-31_1573733426.jpg" width=800 height=500 />
+</p>
 
 База данных об авиаперевозках:
 
