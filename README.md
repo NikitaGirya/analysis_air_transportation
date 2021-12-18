@@ -1,3 +1,10 @@
+---
+
+:white_check_mark::ok_hand:Для корректного отображения разметки `Markdown`, `LaTeX` и интерактивности графиков `Plotly` </br>
+**[Cмотреть через Jupyter Notebook Viewer](https://nbviewer.org/github/NikitaGirya/analysis_air_transportation/blob/main/Girya_analysis_air_transportation.ipynb)**
+
+---
+
 # Анализ внутренних пассажирских авиаперевозок
 
 ---
@@ -81,5 +88,10 @@
 6. Сделать выводы по каждому из графиков, пояснить результат <br/> <br/>
 
 * **Шаг 5**. Формирование общего вывода исследования
+
+---
+
+:white_check_mark::ok_hand:Для корректного отображения разметки `Markdown`, `LaTeX` и интерактивности графиков `Plotly` </br>
+**[Cмотреть через Jupyter Notebook Viewer](https://nbviewer.org/github/NikitaGirya/analysis_air_transportation/blob/main/Girya_analysis_air_transportation.ipynb)**
 
 ---
