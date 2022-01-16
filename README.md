@@ -7,6 +7,8 @@
 
 # Анализ внутренних пассажирских авиаперевозок
 
+`pandas`  `numpy`  `matplotlib`  `seaborn`  `PostgreSQL`
+
 ---
 
 <p align="center">
